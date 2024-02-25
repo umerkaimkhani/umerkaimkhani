@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asadullah Khan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
 
 
 ## 🌐 Socials:
